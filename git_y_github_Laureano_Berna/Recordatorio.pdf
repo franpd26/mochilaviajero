@@ -1,0 +1,9 @@
+git init = inicializar repositorio
+git config (user, mail) = configurar los datos
+git clone = clona el repositorio de la nube al local
+git pull = actualiza el repositorio local con lo de la nube
+git push = empuja los archivos, los sube a la nube
+git commit = confirmacion de lo que subimos
+git log = historial de commits
+git add = agregar archivos al staging area 
+git status = vemos el estado de los archivos que tenemos en nuestro repositorio
