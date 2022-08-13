@@ -1,0 +1,3 @@
+1. el desarrollador de git fue linus torvals, y lo desarrollo devido a que linux poseia un sistema de control de versiones que paso a ser de pago, por ende el desarrollo uno nuevo para su sistema
+2. Le pertenece actualmente a Microsoft, ya que en 2018 lo compra por 7500 millones de dolares
+3. si se puede, ya que podemos utilizar directamente la web arrastrando archivos y/o creandolos desde ahi.
